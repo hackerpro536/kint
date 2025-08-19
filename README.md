@@ -3,7 +3,7 @@
 
 One of the main goals of Kint is to be **zero setup**. 
 
-[Download the archive](https://github.com/hackerpro536/kint/releases/download/1.0.0/kint.zip) and simply
+[Download the archive](https://github.com/hackerpro536/kint/archive/refs/tags/1.0.0.zip) and simply
 ```php
 <?php
 require '/kint/Kint.class.php';
