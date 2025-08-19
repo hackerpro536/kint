@@ -1,0 +1,25 @@
+{
+    "name": "hackerpro536/kint",
+    "description": "Kint - debugging helper for PHP developers. Version edited by Hackerpro536",
+    "keywords": ["kint", "php", "debug"],
+    "type": "library",
+    "homepage": "https://github.com/hackerpro536/kint",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hackerpro536",
+            "homepage": "https://github.com/hackerpro536"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "files": ["Kint.class.php"]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    }
+}
